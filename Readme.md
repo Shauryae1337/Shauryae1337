@@ -16,6 +16,7 @@ I'm a Cyber security Ethusiast with keen interest in Maldev , OT Security , Capt
 [<img src="https://img.icons8.com/color/96/000000/javascript.png" width="48"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ### Frameworks
-[<img src="https://img.icons8.com/color/96/ffffff/django.png" width="48"/>](https://www.djangoproject.com/)
-[<img src="https://img.icons8.com/color/96/ffffff/flask.png" width="48"/>](https://flask.palletsprojects.com/en/2.0.x/)
-
+<div style="background-color:white; padding: 5px; border-radius: 5px;">
+    [<img src="https://img.icons8.com/color/96/000000/django.png" width="48"/>](https://www.djangoproject.com/)
+    [<img src="https://img.icons8.com/color/96/000000/flask.png" width="48"/>](https://flask.palletsprojects.com/en/2.0.x/)
+</div>
