@@ -1,5 +1,6 @@
 # Hi there, I'm [Shaurya] 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shauryae1337&label=Profile%20views&color=0e75b6&style=flat" alt="v3153" /> </p>
 ![Profile Banner](Cysec.png)
 
 ## About Me
@@ -62,12 +63,10 @@ I'm a Cyber security Ethusiast with keen interest in Maldev , OT Security , Capt
 
 ## Projects
 
-### Project 1: Awesome Project
+### Project 1: Staged Malware
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Shauryae1337&repo=Steganography-based-Staged-Malware)](https://github.com/Shauryae1337/Steganography-based-Staged-Malware)
 
 ***
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31z6pldty3n2twdthexhldgixk5a&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
 
 ## Contact
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaurya1337@gmail.com)
