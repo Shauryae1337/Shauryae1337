@@ -1,6 +1,7 @@
 # Hi there, I'm [Shaurya] 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shauryae1337&label=Profile%20views&color=0e75b6&style=flat" alt="v3153" /> </p>
+
 ![Profile Banner](Cysec.png)
 
 ## About Me
