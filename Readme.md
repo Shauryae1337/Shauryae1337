@@ -19,6 +19,10 @@ I'm a Cyber security Ethusiast with keen interest in Maldev , OT Security , Capt
 <a href="https://www.djangoproject.com/"><img src="https://img.icons8.com/color/96/000000/django.png" width="48" style="border: 2px solid white"/></a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/"><img src="https://img.icons8.com/color/96/000000/flask.png" width="48" style="border: 2px solid white"/></a>
 
+### IDEs
+[<img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" width="48"/>](https://code.visualstudio.com/)
+[<img src="https://img.icons8.com/color/96/000000/xcode.png" width="48"/>](https://developer.apple.com/xcode/)
+[<img src="https://img.icons8.com/color/96/000000/android-studio.png" width="48"/>](https://developer.android.com/studio)
 
 ### Tools
 ![Nessus](https://img.shields.io/badge/Nessus-00C853?style=for-the-badge&logo=tenable&logoColor=white)
