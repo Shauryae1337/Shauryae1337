@@ -32,7 +32,7 @@ I'm a Cyber security Ethusiast with keen interest in Maldev , OT Security , Capt
 [<img src="https://img.icons8.com/color/96/000000/xcode.png" width="48"/>](https://developer.apple.com/xcode/)
 [<img src="https://img.icons8.com/color/96/000000/android-studio.png" width="48"/>](https://developer.android.com/studio)
 
-| <img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" width="48"/>(https://code.visualstudio.com/) | <img src="https://img.icons8.com/color/96/000000/xcode.png" width="48"/>(https://developer.apple.com/xcode/) | <img src="https://img.icons8.com/color/96/000000/android-studio.png" width="48"/>(https://developer.android.com/studio) |
+| <img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" width="48"/> | <img src="https://img.icons8.com/color/96/000000/xcode.png" width="48"/> | <img src="https://img.icons8.com/color/96/000000/android-studio.png" width="48"/> |
 | :---: | :---: | :---: | 
 | <b>Visual Studio Code</b> | <b>XCode</b> | <b>Android Studio</b> |
 
