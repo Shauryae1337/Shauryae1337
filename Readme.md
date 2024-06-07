@@ -19,18 +19,13 @@ I'm a Cyber security Ethusiast with keen interest in Maldev , OT Security , Capt
 
 ### Frameworks
 
-
-
 | <a href="https://www.djangoproject.com/"><img src="https://img.icons8.com/color/96/000000/django.png" width="48" style="border: 2px solid white"/></a> | <a href="https://flask.palletsprojects.com/en/2.0.x/"><img src="https://img.icons8.com/color/96/000000/flask.png" width="48" style="border: 2px solid white"/></a> |
 | :---: | :---: |
 | <b>Django</b> | <b>Flask</b> |
 
 ***
 
-### IDEs
-[<img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" width="48"/>](https://code.visualstudio.com/)
-[<img src="https://img.icons8.com/color/96/000000/xcode.png" width="48"/>](https://developer.apple.com/xcode/)
-[<img src="https://img.icons8.com/color/96/000000/android-studio.png" width="48"/>](https://developer.android.com/studio)
+### IDE
 
 | <img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" width="48"/> | <img src="https://img.icons8.com/color/96/000000/xcode.png" width="48"/> | <img src="https://img.icons8.com/color/96/000000/android-studio.png" width="48"/> |
 | :---: | :---: | :---: | 
@@ -71,6 +66,8 @@ I'm a Cyber security Ethusiast with keen interest in Maldev , OT Security , Capt
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Shauryae1337&repo=Steganography-based-Staged-Malware)](https://github.com/Shauryae1337/Steganography-based-Staged-Malware)
 
 ***
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31z6pldty3n2twdthexhldgixk5a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
 
 ## Contact
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaurya1337@gmail.com)
