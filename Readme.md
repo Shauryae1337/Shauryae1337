@@ -8,13 +8,14 @@ I'm a Cyber security Ethusiast with keen interest in Maldev , OT Security , Capt
 ## Skills
 
 ### Languages
-[![Python](https://img.icons8.com/color/96/000000/python.svg)](https://www.python.org/)
-[![Go](https://img.icons8.com/color/96/000000/golang.svg)](https://golang.org/)
-[![Bash](https://img.icons8.com/plasticine/100/000000/bash.png)](https://www.gnu.org/software/bash/)
-[![HTML](https://img.icons8.com/color/96/000000/html-5.svg)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[![CSS](https://img.icons8.com/color/96/000000/css3.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.icons8.com/color/96/000000/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://img.icons8.com/color/96/000000/python.png" width="48"/>](https://www.python.org/)
+[<img src="https://img.icons8.com/color/96/000000/golang.png" width="48"/>](https://golang.org/)
+[<img src="https://img.icons8.com/color/96/000000/bash.png" width="48"/>](https://www.gnu.org/software/bash/)
+[<img src="https://img.icons8.com/color/96/000000/html-5.png" width="48"/>](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[<img src="https://img.icons8.com/color/96/000000/css3.png" width="48"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img src="https://img.icons8.com/color/96/000000/javascript.png" width="48"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ### Frameworks
-[![Django](https://img.icons8.com/color/96/000000/django.svg)](https://www.djangoproject.com/)
-[![Flask](https://img.icons8.com/color/96/000000/flask.svg)](https://flask.palletsprojects.com/en/2.0.x/)
+[<img src="https://img.icons8.com/color/96/000000/django.png" width="48"/>](https://www.djangoproject.com/)
+[<img src="https://img.icons8.com/color/96/000000/flask.png" width="48"/>](https://flask.palletsprojects.com/en/2.0.x/)
+
