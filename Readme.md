@@ -56,6 +56,13 @@ I'm a Cyber security Ethusiast with keen interest in Maldev , OT Security , Capt
 
 ***
 
+## Projects
+
+### Project 1: Awesome Project
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Shauryae1337&repo=Steganography-based-Staged-Malware)](https://github.com/Shauryae1337/Steganography-based-Staged-Malware)
+
+***
+
 ## Contact
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaurya1337@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaurya-na-725687209/)
