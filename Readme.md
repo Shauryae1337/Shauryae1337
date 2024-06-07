@@ -18,8 +18,12 @@ I'm a Cyber security Ethusiast with keen interest in Maldev , OT Security , Capt
 ***
 
 ### Frameworks
-<a href="https://www.djangoproject.com/"><img src="https://img.icons8.com/color/96/000000/django.png" width="48" style="border: 2px solid white"/></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/"><img src="https://img.icons8.com/color/96/000000/flask.png" width="48" style="border: 2px solid white"/></a>
+
+
+
+| <a href="https://www.djangoproject.com/"><img src="https://img.icons8.com/color/96/000000/django.png" width="48" style="border: 2px solid white"/></a> | <a href="https://flask.palletsprojects.com/en/2.0.x/"><img src="https://img.icons8.com/color/96/000000/flask.png" width="48" style="border: 2px solid white"/></a> |
+| :---: | :---: |
+| <b>Django</b> | <b>Flask</b> |
 
 ***
 
