@@ -48,15 +48,25 @@ I'm a Cyber security Ethusiast with keen interest in Maldev , OT Security , Capt
 ![Autopsy](https://img.shields.io/badge/Autopsy-FF5733?style=for-the-badge&logo=apache&logoColor=white)
 ![FTK Imager](https://img.shields.io/badge/FTK%20Imager-4A4A4A?style=for-the-badge&logoColor=white)
 
-### IDEs & Frameworks
-
+### IDEs
 <div style="display: inline-block; border: 2px solid #9e9e9e; border-radius: 10px; padding: 10px; margin: 5px;">
     <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" width="48"/></a>
-    <a href="https://www.djangoproject.com/"><img src="https://img.icons8.com/color/96/000000/django.png" width="48"/></a>
 </div>
 
 <div style="display: inline-block; border: 2px solid #9e9e9e; border-radius: 10px; padding: 10px; margin: 5px;">
     <a href="https://developer.apple.com/xcode/"><img src="https://img.icons8.com/color/96/000000/xcode.png" width="48"/></a>
+</div>
+
+<div style="display: inline-block; border: 2px solid #9e9e9e; border-radius: 10px; padding: 10px; margin: 5px;">
+    <a href="https://developer.android.com/studio"><img src="https://img.icons8.com/color/96/000000/android-studio.png" width="48"/></a>
+</div>
+
+### Frameworks
+<div style="display: inline-block; border: 2px solid #9e9e9e; border-radius: 10px; padding: 10px; margin: 5px;">
+    <a href="https://www.djangoproject.com/"><img src="https://img.icons8.com/color/96/000000/django.png" width="48"/></a>
+</div>
+
+<div style="display: inline-block; border: 2px solid #9e9e9e; border-radius: 10px; padding: 10px; margin: 5px;">
     <a href="https://flask.palletsprojects.com/en/2.0.x/"><img src="https://img.icons8.com/color/96/000000/flask.png" width="48"/></a>
 </div>
 
