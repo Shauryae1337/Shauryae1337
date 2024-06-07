@@ -15,14 +15,20 @@ I'm a Cyber security Ethusiast with keen interest in Maldev , OT Security , Capt
 [<img src="https://img.icons8.com/color/96/000000/css3.png" width="48"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img src="https://img.icons8.com/color/96/000000/javascript.png" width="48"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
+***
+
 ### Frameworks
 <a href="https://www.djangoproject.com/"><img src="https://img.icons8.com/color/96/000000/django.png" width="48" style="border: 2px solid white"/></a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/"><img src="https://img.icons8.com/color/96/000000/flask.png" width="48" style="border: 2px solid white"/></a>
+
+***
 
 ### IDEs
 [<img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" width="48"/>](https://code.visualstudio.com/)
 [<img src="https://img.icons8.com/color/96/000000/xcode.png" width="48"/>](https://developer.apple.com/xcode/)
 [<img src="https://img.icons8.com/color/96/000000/android-studio.png" width="48"/>](https://developer.android.com/studio)
+
+***
 
 ### Tools
 ![Nessus](https://img.shields.io/badge/Nessus-00C853?style=for-the-badge&logo=tenable&logoColor=white)
@@ -48,38 +54,10 @@ I'm a Cyber security Ethusiast with keen interest in Maldev , OT Security , Capt
 ![Autopsy](https://img.shields.io/badge/Autopsy-FF5733?style=for-the-badge&logo=apache&logoColor=white)
 ![FTK Imager](https://img.shields.io/badge/FTK%20Imager-4A4A4A?style=for-the-badge&logoColor=white)
 
-### IDEs
-<div style="display: inline-block; border: 2px solid #9e9e9e; border-radius: 10px; padding: 10px; margin: 5px;">
-    <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" width="48"/></a>
-</div>
-
-<div style="display: inline-block; border: 2px solid #9e9e9e; border-radius: 10px; padding: 10px; margin: 5px;">
-    <a href="https://developer.apple.com/xcode/"><img src="https://img.icons8.com/color/96/000000/xcode.png" width="48"/></a>
-</div>
-
-<div style="display: inline-block; border: 2px solid #9e9e9e; border-radius: 10px; padding: 10px; margin: 5px;">
-    <a href="https://developer.android.com/studio"><img src="https://img.icons8.com/color/96/000000/android-studio.png" width="48"/></a>
-</div>
-
-### Frameworks
-<div style="display: inline-block; border: 2px solid #9e9e9e; border-radius: 10px; padding: 10px; margin: 5px;">
-    <a href="https://www.djangoproject.com/"><img src="https://img.icons8.com/color/96/000000/django.png" width="48"/></a>
-</div>
-
-<div style="display: inline-block; border: 2px solid #9e9e9e; border-radius: 10px; padding: 10px; margin: 5px;">
-    <a href="https://flask.palletsprojects.com/en/2.0.x/"><img src="https://img.icons8.com/color/96/000000/flask.png" width="48"/></a>
-</div>
-
-## Projects
-### Project 1: Awesome Project
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=awesome-project)](https://github.com/yourusername/awesome-project)
-
-### Project 2: Another Project
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=another-project)](https://github.com/yourusername/another-project)
-
+***
 
 ## Contact
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaurya1337@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaurya-na-725687209/)
+[![Portfolio](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://shauryae1337.github.io/)
 
