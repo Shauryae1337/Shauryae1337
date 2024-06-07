@@ -66,7 +66,7 @@ I'm a Cyber security Ethusiast with keen interest in Maldev , OT Security , Capt
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Shauryae1337&repo=Steganography-based-Staged-Malware)](https://github.com/Shauryae1337/Steganography-based-Staged-Malware)
 
 ***
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31z6pldty3n2twdthexhldgixk5a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31z6pldty3n2twdthexhldgixk5a&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 ## Contact
