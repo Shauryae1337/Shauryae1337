@@ -66,10 +66,9 @@ I'm a Cyber security Ethusiast with keen interest in Maldev , OT Security , Capt
 
 ### Staged Malware
 
-### Yara - Rules 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Shauryae1337&repo=Yara-Rules)](https://github.com/Shauryae1337/Yara-Rules)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Shauryae1337&repo=Yara-Rules)](https://github.com/Shauryae1337/Yara-Rules)          [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Shauryae1337&repo=Steganography-based-Staged-Malware)](https://github.com/Shauryae1337/Steganography-based-Staged-Malware)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Shauryae1337&repo=Steganography-based-Staged-Malware)](https://github.com/Shauryae1337/Steganography-based-Staged-Malware)
+
 
 
 
