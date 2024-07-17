@@ -5,7 +5,7 @@
 ![Profile Banner](Cysec.png)
 
 ## About Me
-I'm a Cyber security Ethusiast with keen interest in Maldev , OT Security , Capture the Flag events , Digital Forensics and Cyber Fraud Investigation & looking foward to contribute with innovative projects.
+I'm a Cyber security Enthusiast with keen interest in Maldev , OT Security , Capture the Flag events , Digital Forensics and Cyber Fraud Investigation & looking foward to contribute with innovative projects.
 
 ## Skills
 
