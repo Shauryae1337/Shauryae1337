@@ -7,6 +7,10 @@
 ## About Me
 I'm a Cyber security Enthusiast with keen interest in Maldev , OT Security , Capture the Flag events , Digital Forensics and Cyber Fraud Investigation & looking foward to contribute with innovative projects.
 
+
+## CVEs 
+CVE-2024-44346 (Tosibox Product) , CVE-2024-38305 (Dell Product)
+
 ## Skills
 
 ### Languages
