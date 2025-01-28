@@ -9,18 +9,18 @@ I'm a Cyber security Enthusiast with keen interest in Maldev , OT Security , Cap
 
 
 ## CVEs 
-CVE-2024-44346 (Tosibox Product) 
-CVE-2024-38305 (Dell Product)
-CVE-2024-9490: DLL hijacking in Silicon Labs IDE installer
-CVE-2024-9491: DLL hijacking in Configuration Wizard 2 installer
-CVE-2024-9492: DLL hijacking in Flash Programming Utility installer
-CVE-2024-9493: DLL hijacking in ToolStick installer    
-CVE-2024-9494: DLL hijacking in CP210 VCP Win 2k installer    
-CVE-2024-9495: DLL hijacking in CP210x VCP Windows installer
-CVE-2024-9496: DLL hijacking in USBXpress Dev Kit installer
-CVE-2024-9497: DLL hijacking in USBXpress 4 SDK installer
-CVE-2024-9498: DLL hijacking in USBXpress SDK installer
-CVE-2024-9499: DLL hijacking in USBXpress Win 98SE Dev Kit installer
+      - CVE-2024-44346 (Tosibox Product) 
+      - CVE-2024-38305 (Dell Product)
+      - CVE-2024-9490: DLL hijacking in Silicon Labs IDE installer
+      - CVE-2024-9491: DLL hijacking in Configuration Wizard 2 installer
+      - CVE-2024-9492: DLL hijacking in Flash Programming Utility installer
+      - CVE-2024-9493: DLL hijacking in ToolStick installer    
+      - CVE-2024-9494: DLL hijacking in CP210 VCP Win 2k installer    
+      - CVE-2024-9495: DLL hijacking in CP210x VCP Windows installer
+      - CVE-2024-9496: DLL hijacking in USBXpress Dev Kit installer
+      - CVE-2024-9497: DLL hijacking in USBXpress 4 SDK installer
+      - CVE-2024-9498: DLL hijacking in USBXpress SDK installer
+      - CVE-2024-9499: DLL hijacking in USBXpress Win 98SE Dev Kit installer
 
 
 
