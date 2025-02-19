@@ -8,7 +8,7 @@
 I'm a Cyber security Enthusiast with keen interest in Maldev , OT Security , Capture the Flag events , Digital Forensics and Cyber Fraud Investigation & looking foward to contribute with innovative projects.
 
 
-## CVEs 
+## CVEs ' 14 '
       - CVE-2025-26624 Rufus 4.6 and previous versions
       - CVE-2024-47935 TXOne Networks StellarProtect <Legacy Mode> , StellarEnforce, and Safe Lock ( Trebnd Micro Products ) 
       - CVE-2024-44346 (Tosibox Product) 
