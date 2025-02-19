@@ -10,6 +10,7 @@ I'm a Cyber security Enthusiast with keen interest in Maldev , OT Security , Cap
 
 ## CVEs 
       - CVE-2025-26624 Rufus 4.6 and previous versions
+      - CVE-2024-47935 TXOne Networks StellarProtect <Legacy Mode> , StellarEnforce, and Safe Lock ( Trebnd Micro Products ) 
       - CVE-2024-44346 (Tosibox Product) 
       - CVE-2024-38305 (Dell Product)
       - CVE-2024-9490: Silicon Labs IDE installer ( Silicon Labs Product )
