@@ -4,29 +4,36 @@
 
 ![Profile Banner](Cysec.png)
 
-## About Me
+## 🎯 **About Me**
 I'm a Cyber security Enthusiast with keen interest in Maldev , OT Security , Capture the Flag events , Digital Forensics and Cyber Fraud Investigation & looking foward to contribute with innovative projects.
 
 
-## CVEs ' 14 '
-      - CVE-2025-26624 Rufus 4.6 and previous versions
-      - CVE-2024-47935 TXOne Networks StellarProtect <Legacy Mode> , StellarEnforce, and Safe Lock ( Trebnd Micro Products ) 
-      - CVE-2024-44346 (Tosibox Product) 
-      - CVE-2024-38305 (Dell Product)
-      - CVE-2024-9490: Silicon Labs IDE installer ( Silicon Labs Product )
-      - CVE-2024-9491: Configuration Wizard 2 installer ( Silicon Labs Product )
-      - CVE-2024-9492: Flash Programming Utility installer ( Silicon Labs Product )
-      - CVE-2024-9493: ToolStick installer ( Silicon Labs Product )
-      - CVE-2024-9494: CP210 VCP Win 2k installer ( Silicon Labs Product )
-      - CVE-2024-9495: CP210x VCP Windows installer ( Silicon Labs Product )
-      - CVE-2024-9496: USBXpress Dev Kit installer ( Silicon Labs Product )
-      - CVE-2024-9497: USBXpress 4 SDK installer ( Silicon Labs Product )
-      - CVE-2024-9498: USBXpress SDK installer ( Silicon Labs Product )
-      - CVE-2024-9499: USBXpress Win 98SE Dev Kit installer ( Silicon Labs Product )
+### 🎯 **CVEs**🏆 
 
+| Count.  | **Vendor**        | **CVE ID**                                                                                          |
+|---|--------------------|----------------------------------------------------------------------------------------------------|
+| 𝟙 | **Rufus** 🚀 | [CVE-2025-26624](https://www.cve.org/CVERecord?id=CVE-2025-26624) |
+| 𝟚 | **Dell** 🚀       | [CVE-2024-38305](https://www.dell.com/support/kbdoc/en-us/000227899/dsa-2024-312-security-update-for-dell-supportassist-for-home-pcs-installer-file-local-privilege-escalation-vulnerability) |
+| 𝟛 | **Tosibox** 🚀    | [CVE-2024-44346](https://tosibox.service-now.com/customer_portal?id=kb_article_view&sys_kb_id=569a9b4a3318de108efa2c023d5c7bc5) |
+| 𝟜 | **Silicon Labs** 🚀 | [CVE-2024-9490](https://www.cve.org/CVERecord?id=CVE-2024-9490) |
+| 𝟝 | **Silicon Labs** 🚀 | [CVE-2024-9491](https://www.cve.org/CVERecord?id=CVE-2024-9491) |  
+| 𝟞 | **Silicon Labs** 🚀 | [CVE-2024-9492](https://www.cve.org/CVERecord?id=CVE-2024-9492) |
+| 𝟟 | **Silicon Labs** 🚀 | [CVE-2024-9493](https://www.cve.org/CVERecord?id=CVE-2024-9493) |
+| 𝟠 | **Silicon Labs**🚀 | [CVE-2024-9494](https://www.cve.org/CVERecord?id=CVE-2024-9494) |
+| 𝟡 | **Silicon Labs**🚀 | [CVE-2024-9495](https://www.cve.org/CVERecord?id=CVE-2024-9495) |
+| 𝟙𝟘 | **Silicon Labs**🚀 | [CVE-2024-9496](https://www.cve.org/CVERecord?id=CVE-2024-9496) |
+| 𝟙𝟙 | **Silicon Labs**🚀 | [CVE-2024-9497](https://www.cve.org/CVERecord?id=CVE-2024-9497) |
+| 𝟙𝟚 | **Silicon Labs**🚀 | [CVE-2024-9498](https://www.cve.org/CVERecord?id=CVE-2024-9498) |
+| 𝟙𝟛 | **Silicon Labs**🚀 | [CVE-2024-9499](https://www.cve.org/CVERecord?id=CVE-2024-9499) |
+| 𝟙𝟜 | **Kape by Eric Zimmerman**🚀 | [CVE-2024-55347](https://www.cve.org/CVERecord?id=CVE-2024-55347) |
+| 𝟙𝟝 | **Trend Micro-TXOne**🚀 | [CVE-2024-47935](https://www.txone.com/psirt/advisories/cve-2024-47935/)  |
+|𝟙𝟞 | **Hitachi**🚀| [CVE-2024-57963](https://www.cve.org/CVERecord?id=CVE-2024-57963) |
+|𝟙𝟟 | **Hitachi**🚀| [CVE-2024-57964](https://www.cve.org/CVERecord?id=CVE-2024-57964) |
+| 𝟙𝟠 | **Carrier**🚀 | **RESERVED**  |
 
+<hr>
 
-## Skills
+## 🚀 **Skills**
 
 ### Languages
 [<img src="https://img.icons8.com/color/96/000000/python.png" width="48"/>](https://www.python.org/)
@@ -38,7 +45,7 @@ I'm a Cyber security Enthusiast with keen interest in Maldev , OT Security , Cap
 
 ***
 
-### Frameworks
+### 🛠️ **Frameworks**
 
 | <a href="https://www.djangoproject.com/"><img src="https://img.icons8.com/color/96/000000/django.png" width="48" style="border: 2px solid white"/></a> | <a href="https://flask.palletsprojects.com/en/2.0.x/"><img src="https://img.icons8.com/color/96/000000/flask.png" width="48" style="border: 2px solid white"/></a> |
 | :---: | :---: |
@@ -46,7 +53,7 @@ I'm a Cyber security Enthusiast with keen interest in Maldev , OT Security , Cap
 
 ***
 
-### IDE
+### 🛠️ **IDE**
 
 | <img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" width="48"/> | <img src="https://img.icons8.com/color/96/000000/xcode.png" width="48"/> | <img src="https://img.icons8.com/color/96/000000/android-studio.png" width="48"/> |
 | :---: | :---: | :---: | 
@@ -55,7 +62,7 @@ I'm a Cyber security Enthusiast with keen interest in Maldev , OT Security , Cap
 
 ***
 
-### Tools
+### 🛠️ **Tools**
 ![Nessus](https://img.shields.io/badge/Nessus-00C853?style=for-the-badge&logo=tenable&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-00538C?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Acunetix](https://img.shields.io/badge/Acunetix-000000?style=for-the-badge&logo=acunetix&logoColor=white)
@@ -81,7 +88,7 @@ I'm a Cyber security Enthusiast with keen interest in Maldev , OT Security , Cap
 
 ***
 
-## Projects
+## 🛠️ **Projects**
 
 ### Staged Malware
 
