@@ -30,6 +30,7 @@ I'm a Cyber security Enthusiast with keen interest in Maldev , OT Security , Cap
 |𝟙𝟞 | **Hitachi**🚀| [CVE-2024-57963](https://www.cve.org/CVERecord?id=CVE-2024-57963) |
 |𝟙𝟟 | **Hitachi**🚀| [CVE-2024-57964](https://www.cve.org/CVERecord?id=CVE-2024-57964) |
 | 𝟙𝟠 | **Carrier**🚀 | **RESERVED**  |
+| 𝟙9 | **Lenovo Motorola**🚀 | [CVE-2025-1700](https://en-us.support.motorola.com/app/answers/detail/a_id/186730)  |
 
 <hr>
 
